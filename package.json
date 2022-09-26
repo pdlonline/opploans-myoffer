@@ -1,0 +1,16 @@
+{
+  "name": "opploans-myoffer",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "OppLoans MyOffer Online Payday Loans Online No Credit Check Instant Approval",
+  "keywords": [
+    "opploans myoffer",
+    "opploans com myoffer",
+    "opploans.com/myoffer"
+  ],
+  "repository": "https://github.com/pdlonline/opploans-myoffer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
